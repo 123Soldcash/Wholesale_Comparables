@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-03-26T21:08:57.242010",
+  "address": "438 NE 2nd St, Pompano Beach, FL 33060",
+  "county": "broward",
+  "property": {
+    "address": "438 NE 2nd St, Pompano Beach, FL 33060",
+    "owner": null,
+    "sf": null,
+    "yearBuilt": null,
+    "beds": null,
+    "baths": null,
+    "lotSize": null,
+    "lastSaleAmount": null,
+    "lastSaleDate": null,
+    "assessedValue": null,
+    "paUrl": "https://bcpa.net/RecMenu.asp?saddr=438&sname=NE%202nd%20St",
+    "streetViewUrl": "https://maps.googleapis.com/maps/api/streetview?size=600x400&location=438%20NE%202nd%20St%2C%20Pompano%20Beach%2C%20FL%2033060",
+    "googleMapsUrl": "https://www.google.com/maps/search/438%20NE%202nd%20St%2C%20Pompano%20Beach%2C%20FL%2033060",
+    "zillowUrl": "https://www.zillow.com/homes/438%20NE%202nd%20St%2C%20Pompano%20Beach%2C%20FL%2033060_rb/",
+    "redfinUrl": "https://www.redfin.com/FL/438%20NE%202nd%20St%2C%20Pompano%20Beach%2C%20FL%2033060"
+  },
+  "sold6": [],
+  "sold12": [],
+  "compsTotal": 0,
+  "investorCount": 0,
+  "cashCount": 0
+}
